@@ -11,3 +11,7 @@ The app looks up the place in a built-in dictionary to get latitude/longitude,
 computes planetary positions and houses using `pyswisseph`, and answers rules-based
 questions (Manglik, Moon sign, simplified Vimshottari Mahadasha), always returning
 the computed data for transparency.
+
+# Requirements
+- pyswisseph==2.12.0
+- gradio==3.40.0
