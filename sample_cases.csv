@@ -1,0 +1,4 @@
+label,date,time,lat,lon,tz,expected_manglik?,notes
+Person A,2006-10-12,20:27,28.6139,77.2090,5.5,check,India
+Person B,2004-12-22,09:45,28.7041,77.1025,5.5,check,Delhi
+Person C,2008-05-12,14:20,31.1471,75.3412,5.5,check,"Punjab, India"
